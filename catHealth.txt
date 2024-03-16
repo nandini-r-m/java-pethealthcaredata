@@ -1,0 +1,7 @@
+Name: cat1
+Weight: 56.0 lbs
+Number of Vaccinations: 1
+Names of vaccines: 1bc
+Vaccinated Yearly: true
+Regular Vet Visits: false
+
