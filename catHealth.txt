@@ -1,7 +1,28 @@
-Name: cat1
-Weight: 56.0 lbs
-Number of Vaccinations: 1
-Names of vaccines: 1bc
-Vaccinated Yearly: true
+Name: null
+Weight: null
+Number of Vaccinations: null
+Names of vaccines: null
+Vaccinated Yearly: null
+Regular Vet Visits: null
+
+Name: null
+Weight: null
+Number of Vaccinations: null
+Names of vaccines: null
+Vaccinated Yearly: null
+Regular Vet Visits: null
+
+Name: nandini
+Weight: 45kg
+Number of Vaccinations: 3
+Names of vaccines: agg, aja, hjh
+Vaccinated Yearly: false
 Regular Vet Visits: false
+
+Name: cat1
+Weight: 25kg
+Number of Vaccinations: 2
+Names of vaccines: aghdga. kjgkjg
+Vaccinated Yearly: false
+Regular Vet Visits: true
 
