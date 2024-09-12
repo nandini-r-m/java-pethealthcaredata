@@ -11,13 +11,17 @@ View Vaccination History: View a comprehensive list of vaccines for each pet.
 Alerts/Reminders: Track upcoming vaccinations and schedule reminders.
 Data Persistence: Store and retrieve pet and vaccine information from a database.
 Simple GUI: A user-friendly, responsive interface built with Java Swing for easy navigation.
+
 **Technologies Used**
 Java (Swing): For creating the user interface.
 JDBC (Java Database Connectivity): To connect and interact with the database.
 SQLite/MySQL: The database where pet and vaccine records are stored.
 Maven: Dependency management and project build tool (if applicable).
+
 **Prerequisites**
 JDK 8 or higher installed.
 A database system, either SQLite (embedded) or MySQL (for external storage).
 Java IDE like Eclipse, IntelliJ IDEA, or NetBeans for development and testing.
+
+
 ![image](https://github.com/user-attachments/assets/64ec1bbe-f297-4a9d-bba8-994af55124bb)
